@@ -27,6 +27,6 @@ fastq-dump --outdir fastq --gzip --skip-technical  --readids --read-filter pass
 
 # Contact
 Dr. Jeff Biernaskie (jabierna@ucalgary.ca)<br/>
-Nicole L. Rosin (Nicole.Rosin@ucalgary.ca)<br/>
+Dr. Nicole L. Rosin (Nicole.Rosin@ucalgary.ca)<br/>
 Arzina Jaffer (arzina.jaffer1@ucalgary.ca)<br/>
 Sarthak Sinha (sarthak.chinoo@gmail.com)
