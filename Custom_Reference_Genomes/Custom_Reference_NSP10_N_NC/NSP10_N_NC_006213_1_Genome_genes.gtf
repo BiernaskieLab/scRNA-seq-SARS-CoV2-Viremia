@@ -1,0 +1,3 @@
+nsp10	ncbi	exon	1	420	.	+	.	gene_id "nsp10"; transcript_id "nsp10"; gene_name "nsp10"; gene_biotype "nsp10"
+NC_006213_1	ncbi	exon	1	420	.	+	.	gene_id "NC_006213_1"; transcript_id "NC_006213_1"; gene_name "NC_006213_1"; gene_biotype "NC_006213_1"
+N	ncbi	exon	1	1257	.	+	.	gene_id "n"; transcript_id "n"; gene_name "n"; gene_biotype "n"
