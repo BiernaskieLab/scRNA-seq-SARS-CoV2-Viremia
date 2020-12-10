@@ -14,7 +14,7 @@ NCBI GEO: [GSE151969](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1519
 wget https://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108677/suppl/GSE108677_RAW.tar ### CHANGE THIS
 tar -xvf GSE151969_RAW.tar
 ```
-NCBI SRA: SRP130923 ### CHANGE THIS <br/>
+NCBI SRA: To be released <br/>
 ```
 source activate sratoolkit
 fastq-dump --outdir fastq --gzip --skip-technical  --readids --read-filter pass --dumpbase --split-3 --clip SRR_ID
