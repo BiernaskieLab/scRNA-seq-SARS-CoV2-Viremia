@@ -11,8 +11,12 @@ In late 2019 a novel coronavirus (SARS-CoV-2) emerged, and has since caused a gl
 ## Single-cell RNA-Seq
 NCBI GEO: [GSE151969](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE151969) [GSE156639](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156639)<br/>
 ```
-wget https://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108677/suppl/GSE108677_RAW.tar ### CHANGE THIS
+GSE151969:
+wget https://ftp.ncbi.nlm.nih.gov/geo/series/GSE151nnn/GSE151969/suppl/GSE151969_RAW.tar
 tar -xvf GSE151969_RAW.tar
+GSE156639:
+wget https://ftp.ncbi.nlm.nih.gov/geo/series/GSE156nnn/GSE156639/suppl/GSE156639_RAW.tar
+tar -xvf GSE156639_RAW.tar
 ```
 NCBI SRA: To be released <br/>
 ```
