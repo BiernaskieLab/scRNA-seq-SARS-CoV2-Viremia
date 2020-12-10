@@ -23,7 +23,8 @@ fastq-dump --outdir fastq --gzip --skip-technical  --readids --read-filter pass
 
 # Toolkits used
 `Cellranger v.3.1.0` - Alignment and aggregation of 10x-generated scRNA-Seq data.  <br/>
-`Seurat v.3.0` - scRNA-Seq Analysis. # WHICH VERSION WAS USED? <br/>
+`Seurat v.3.1.5` - scRNA-Seq Analysis. <br/>
+`R v.3.6.1 ` - scRNA-Seq Analysis. <br/>
 
 # Contact
 Dr. Jeff Biernaskie (jabierna@ucalgary.ca)<br/>
