@@ -4,7 +4,7 @@ This repository contains analysis scripts for Rosin et al. 2020 (Under Review).
 # Summary
 
 ## Abstract
-In late 2019 a novel coronavirus (SARS-CoV-2) emerged, and has since caused a global pandemic. Understanding the pathogenesis of COVID-19 disease is necessary to inform development of therapeutics, and management of infected patients. Unlike other viral infections, COVID-19 infection elicits multi-organ disease, but how this occurs is poorly understood. There is currently little information about the viral load in the blood of infected patients. Using scRNAseq of blood drawn form SARS-CoV-2 patients, we asked whether SARS-CoV-2 may exploit immune cells as a ‘Trojan Horse’ in order expand dissemination and access across multiple organ systems. Our data suggests that circulating cells are not actively infected with SARS-CoV-2, and do not appear to be a source of viral disbursement.
+In late 2019 a novel coronavirus (SARS-CoV-2) emerged, and has since caused a global pandemic. Understanding the pathogenesis of COVID-19 disease is necessary to inform development of therapeutics, and management of infected patients. Using scRNAseq of blood drawn from SARS-CoV-2 patients, we asked whether SARS-CoV-2 may exploit immune cells as a ‘Trojan Horse’ to disseminate and access multiple organ systems. Our data suggests that circulating cells are not actively infected with SARS-CoV-2, and do not appear to be a source of viral dissemination.
 
 # Data
 
